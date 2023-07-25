@@ -1,0 +1,15 @@
+{
+  "name": "MOBILNOE PRILOJENIE",
+  "description": "ETO MOE MOBILNOE PRILOJENIE",
+  "start_url": "/index.html",
+  "lang": "ru",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "ZNAK.png",
+      "sizes": "192x192"
+    }
+  ]
+
+
+}

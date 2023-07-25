@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+/* Стили для нижней части сайта (футера) */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.contact-info a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.social-icons {
+    /* Если у вас есть иконки социальных сетей, вы можете добавить стили для их отображения здесь */
+}
+/* Стили для навигационной строки */
+.site-navigation {
+    display: flex !important;
+    justify-content: center !important;
+    background-color: #f0f0f0 !important;
+    padding: 10px 0 !important;
+}
+
+.site-navigation a {
+    color: #333 !important;
+    text-decoration: none !important;
+    padding: 10px !important;
+}
+
+.site-navigation a:hover {
+    background-color: #ddd !important;
+}
+/* Стили для навигационной строки */
+nav {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    font-family: Arial, sans-serif; /* Шрифт, который вы хотите использовать */
+    font-size: 16px; /* Размер шрифта, который вы хотите использовать */
+}
+
+nav a:hover {
+    background-color: #ddd;
+}
